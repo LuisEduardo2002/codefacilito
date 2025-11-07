@@ -2,6 +2,6 @@
 int main()
 {
     /* code */
-    printf("HOLA MUNDO\n");
+    printf("hola2 MUNDO\n");
     return 0;
 }
